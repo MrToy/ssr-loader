@@ -5,7 +5,6 @@ module.exports={
 		libraryTarget:"commonjs"
 	},
 	entry:{
-		index:"./src/index.js",
 		waiter:"./src/waiter.js"
 	},
 	externals:/^[^.]/,
