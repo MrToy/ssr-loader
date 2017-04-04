@@ -1,7 +1,7 @@
 {
   "name": "ssr-loader",
-  "version": "1.0.3",
-  "description": "disable code-split on server-render with webpack's target=node",
+  "version": "1.0.4",
+  "description": "code-split on server-render",
   "main": "index.js",
   "author": "toy",
   "license": "ISC",
